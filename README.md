@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mmuntaha
+- 👋 Hi, I’m muntaha
 - 👀 I’m interested in Machine Learning and Data Science 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on GitHub 
