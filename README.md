@@ -1,6 +1,6 @@
 - 👋 Hi, I’m muntaha
 - 👀 I’m interested in Machine Learning and Data Science 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently advancing certification in Python
 - 💞️ I’m looking to collaborate on GitHub 
 - 📫 You can reach me by mail
 
